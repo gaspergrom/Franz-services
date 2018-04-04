@@ -1,0 +1,13 @@
+{
+  "id": "zeplin",
+  "name": "Zeplin",
+  "version": "1.0.4",
+  "description": "Zeplin",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper.grom@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.zeplin.io/projects",
+    "hasNotificationSound": true
+  }
+}
