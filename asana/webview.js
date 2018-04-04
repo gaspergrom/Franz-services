@@ -2,8 +2,8 @@ const path = require('path');
 
 module.exports = (Franz) => {
   function getMessages() {
-    let direct = document.querySelectorAll("a.has-newNotifications").length;;
-    let indirect = 0;
+    let direct = 0;
+    let indirect = document.querySelectorAll("a.has-newNotifications").length;
     Franz.setBadge(direct, indirect);
   }
 
