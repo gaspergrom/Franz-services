@@ -1,0 +1,13 @@
+{
+  "id": "coinbase",
+  "name": "Coinbase",
+  "version": "1.0.4",
+  "description": "Coinbase",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper@cnj.si>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.coinbase.com/dashboard",
+    "hasNotificationSound": true
+  }
+}
