@@ -1,0 +1,13 @@
+{
+  "id": "forecast",
+  "name": "Forecast",
+  "version": "1.0.4",
+  "description": "Forecast",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper.grom@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://forecastapp.com",
+    "hasNotificationSound": true
+  }
+}
