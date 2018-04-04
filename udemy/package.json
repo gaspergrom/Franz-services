@@ -1,0 +1,13 @@
+{
+  "id": "udemy",
+  "name": "Udemy",
+  "version": "1.0.4",
+  "description": "Udemy",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper@cnj.si>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.udemy.com/home/my-courses/learning/",
+    "hasNotificationSound": true
+  }
+}

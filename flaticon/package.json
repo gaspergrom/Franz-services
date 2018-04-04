@@ -1,0 +1,13 @@
+{
+  "id": "flaticon",
+  "name": "Flaticon",
+  "version": "1.0.4",
+  "description": "Flaticon",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper@cnj.si>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.flaticon.com/",
+    "hasNotificationSound": true
+  }
+}

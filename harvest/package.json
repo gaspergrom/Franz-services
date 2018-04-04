@@ -1,0 +1,13 @@
+{
+  "id": "harvest",
+  "name": "Harvest",
+  "version": "1.0.4",
+  "description": "Harvest",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper@cnj.si>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://cnj.harvestapp.com/time",
+    "hasNotificationSound": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "instagantt",
+  "name": "Instagantt",
+  "version": "1.0.4",
+  "description": "instagantt",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper@cnj.si>",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "https://instagantt.com/app",
+		"hasNotificationSound": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "drive",
+  "name": "Drive",
+  "version": "1.0.4",
+  "description": "drive",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper@cnj.si>",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "https://drive.google.com",
+		"hasNotificationSound": true
+  }
+}

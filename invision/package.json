@@ -1,0 +1,13 @@
+{
+  "id": "invisionapp",
+  "name": "Invision",
+  "version": "1.0.4",
+  "description": "invisionapp",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper@cnj.si>",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "https://projects.invisionapp.com/",
+		"hasNotificationSound": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "asana",
+  "name": "Asana",
+  "version": "1.0.4",
+  "description": "Asana",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper@cnj.si>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.asana.com",
+    "hasNotificationSound": true
+  }
+}
