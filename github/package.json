@@ -1,0 +1,13 @@
+{
+  "id": "github",
+  "name": "Github",
+  "version": "1.0.4",
+  "description": "Github",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper.grom@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://github.com/",
+    "hasNotificationSound": true
+  }
+}
