@@ -1,0 +1,13 @@
+{
+  "id": "bitbucket",
+  "name": "Bitbucket",
+  "version": "1.0.4",
+  "description": "Bitbucket",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper.grom@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://bitbucket.org/dashboard/overview",
+    "hasNotificationSound": true
+  }
+}
