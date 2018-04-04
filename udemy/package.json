@@ -4,7 +4,7 @@
   "version": "1.0.4",
   "description": "Udemy",
   "main": "index.js",
-  "author": "Gašper Grom <gasper@cnj.si>",
+  "author": "Gašper Grom <gasper.grom@gmail.com>",
   "license": "MIT",
   "config": {
     "serviceURL": "https://www.udemy.com/home/my-courses/learning/",
