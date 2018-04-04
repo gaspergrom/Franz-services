@@ -1,0 +1,13 @@
+{
+  "id": "marvel",
+  "name": "Marvel",
+  "version": "1.0.4",
+  "description": "Marvel",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper.grom@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://marvelapp.com/dashboard/",
+    "hasNotificationSound": true
+  }
+}
