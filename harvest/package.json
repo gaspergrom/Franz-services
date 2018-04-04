@@ -7,7 +7,7 @@
   "author": "Gašper Grom <gasper@cnj.si>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://cnj.harvestapp.com/time",
+    "serviceURL": "https://id.getharvest.com/accounts",
     "hasNotificationSound": true
   }
 }
