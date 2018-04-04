@@ -2,12 +2,19 @@
 
 ## Services
 * Asana
+* Bitbucket
+* Coinbase
 * Drive
 * Flaticon
+* Forecast
+* Github
 * Harvest
 * Instagantt
 * Invision
+* Marvel
 * Udemy
+* Wordpress
+* Zeplin
 
 ## Installation
 1. Open the Franz Plugins folder on your machine (note that this `dev` directory may not exist yet, and you must create it):
