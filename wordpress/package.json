@@ -1,0 +1,15 @@
+{
+  "id": "wordpress",
+  "name": "Wordpress",
+  "version": "1.0.4",
+  "description": "Wordpress",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper.grom@gmail.com>",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "{teamId}/wp-admin",
+		"hasNotificationSound": true,
+		"hasTeamId": true,
+		"urlInputSuffix": "/wp-admin"
+  }
+}
