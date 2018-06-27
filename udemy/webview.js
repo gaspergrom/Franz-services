@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = (Franz) => {
   function getMessages() {
-    let direct = document.querySelectorAll("b.badge span").innerHTML;
+    let direct = 0;
     let indirect = 0;
     Franz.setBadge(direct, indirect);
   }
