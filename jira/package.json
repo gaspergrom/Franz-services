@@ -1,0 +1,15 @@
+{
+  "id": "jira",
+  "name": "Jira",
+  "version": "1.0.4",
+  "description": "Jira",
+  "main": "index.js",
+  "author": "Gašper Grom <gasper.grom@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://jira.{teamId}.org/secure/Dashboard.jspa",
+	"hasNotificationSound": true,
+	"hasTeamId": true,
+	"urlInputSuffix": "jira.{teamId}.org"
+  }
+}
